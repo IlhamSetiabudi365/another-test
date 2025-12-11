@@ -13,6 +13,7 @@ public class vivaq2 {
         String step2 = ShiftOrder(step1);
         String step3 = ShiftAscii(step2);
 
+        System.out.println("______________________________");
         System.out.println("Encoded message: " + step3);
     }
 
