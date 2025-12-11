@@ -6,7 +6,7 @@ public class vivaq2 {
         System.out.println("|=====Hello, World!=====|");
         Scanner input = new Scanner(System.in);
 
-        System.out.println("enter message");
+        System.out.println("enter message : ");
         String msg = input.nextLine();
 
         String step1 = InsertRandom(msg);
